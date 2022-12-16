@@ -9,7 +9,7 @@ import { CityTypeaheadItem } from '../../models/city-typeahead-item.model';
 import { CitiesService } from '../../services/cities.service';
 
 @Component({
-  selector: 'jv-cities-typeahead',
+  selector: 'weatherApp-cities-typeahead',
   templateUrl: './cities-typeahead.component.html',
   styleUrls: ['./cities-typeahead.component.scss'],
 })

@@ -7,7 +7,7 @@ import { Units } from 'src/app/shared/models/units.enum';
 import { unitToSymbol } from 'src/app/shared/utils/units.utils';
 
 @Component({
-  selector: 'jv-daily-weather',
+  selector: 'weatherApp-daily-weather',
   templateUrl: 'daily-weather.component.html',
   styleUrls: ['daily-weather.component.scss'],
   changeDetection: ChangeDetectionStrategy.OnPush,

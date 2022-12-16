@@ -4,7 +4,7 @@ import { CityWeather } from '../../../../shared/models/weather.model';
 import { Units } from 'src/app/shared/models/units.enum';
 
 @Component({
-  selector: 'jv-current-weather',
+  selector: 'weatherApp-current-weather',
   templateUrl: './current-weather.component.html',
   styleUrls: ['./current-weather.component.scss'],
   changeDetection: ChangeDetectionStrategy.OnPush,

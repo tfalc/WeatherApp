@@ -4,7 +4,7 @@ import * as moment from 'moment-timezone';
 import 'moment/locale/pt-br';
 
 @Component({
-  selector: 'jv-root',
+  selector: 'weatherApp-root',
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.scss']
 })

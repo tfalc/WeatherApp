@@ -3,8 +3,8 @@
 
     <h2>{{ cityName }}</h2>
 
-    <jv-detailed-weather [weather]="cityWeather.weather"
-                         [unit]="unit"></jv-detailed-weather>
+    <weatherApp-detailed-weather [weather]="cityWeather.weather"
+                         [unit]="unit"></weatherApp-detailed-weather>
 
     <div class="card-actions">
       <a class="card-link" (click)="onToggleBookmark()">

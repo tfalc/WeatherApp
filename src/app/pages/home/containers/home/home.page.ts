@@ -17,7 +17,7 @@ import * as fromBookmarksSelectors from '../../../bookmarks/state/bookmarks.sele
 import * as fromConfigSelectors from '../../../../shared/state/config/config.selectors';
 
 @Component({
-  selector: 'jv-home',
+  selector: 'weatherApp-home',
   templateUrl: './home.page.html',
   styleUrls: ['./home.page.scss']
 })

@@ -11,7 +11,7 @@ import * as fromDetailsSelectors from '../../state/details.selectors';
 import * as fromConfigSelectors from '../../../../shared/state/config/config.selectors';
 
 @Component({
-  selector: 'jv-details',
+  selector: 'weatherApp-details',
   templateUrl: './details.page.html',
   styleUrls: ['./details.page.scss']
 })

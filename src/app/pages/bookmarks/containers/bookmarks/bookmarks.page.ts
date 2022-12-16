@@ -12,7 +12,7 @@ import * as fromBookmarksSelectors from '../../state/bookmarks.selectors';
 import * as fromBookmarksActions from '../../state/bookmarks.actions';
 
 @Component({
-  selector: 'jv-bookmarks',
+  selector: 'weatherApp-bookmarks',
   templateUrl: './bookmarks.page.html',
   styleUrls: ['./bookmarks.page.scss']
 })
